@@ -83,7 +83,7 @@ video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
+  font-family: inherit;
   vertical-align: baseline;
 }
 
@@ -339,11 +339,11 @@ section {
   color: #000000;
 }
 
-.offer-info div:first-child {
+.offer-info div.new {
   position: relative;
 }
 
-.offer-info div:first-child::after {
+.offer-info div.new::after {
   content: "";
   width: 22px;
   height: 22px;
