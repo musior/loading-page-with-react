@@ -1,10 +1,10 @@
 import React from "react";
-import { offer } from "../data/offer";
+import { offers } from "../data/offers";
 
 const BoxOffer = () => {
   return (
     <div className="offer-info">
-      {offer.map((item, key) => (
+      {offers.map((item, key) => (
         <div key={key} className={item.isNew ? "new" : ""}>
           <p className="offer-p">
             {item.name}{" "}

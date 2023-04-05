@@ -1,4 +1,4 @@
-const offer = [
+const offers = [
   {
     name: "Oferta 1",
     isNew: false,
@@ -30,4 +30,4 @@ const offer = [
   }
 ]
 
-export { offer }
+export { offers }
