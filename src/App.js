@@ -6,7 +6,7 @@ import Aside from './components/Aside';
 import SectionOffer from './components/SectionOffer';
 import BoxOffer from './components/BoxOffer';
 
-function App() {
+const App = () => {
   return (
     <>
       <Navbar />
