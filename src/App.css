@@ -263,8 +263,7 @@ aside {
   flex-direction: column;
 }
 
-.employees-img {
-  background-image: url(../public/employee-img.jpg);
+.employees-img img {
   border-radius: 50%;
   width: 197px;
   height: 197px;
