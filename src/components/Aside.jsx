@@ -1,4 +1,3 @@
-import React from "react";
 import { listOfEmplyess } from "../data/listOfEmployess";
 
 const Aside = () => {

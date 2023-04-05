@@ -1,4 +1,3 @@
-import React from "react";
 import { offers } from "../data/offers";
 
 const BoxOffer = () => {

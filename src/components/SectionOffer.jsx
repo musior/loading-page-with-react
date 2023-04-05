@@ -1,5 +1,3 @@
-import React from "react";
-
 const SectionOffer = ({ children }) => {
   return (
     <section id="offer">

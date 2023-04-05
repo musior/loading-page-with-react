@@ -1,5 +1,3 @@
-import React from "react";
-
 const Header = () => {
   const handleClick = () => {
     document.location = "#offer";
